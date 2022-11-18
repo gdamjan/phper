@@ -10,6 +10,7 @@
 
 #include <stdbool.h>
 #include <php.h>
+#include <php_main.h>
 #include <php_ini.h>
 #include <ext/standard/info.h>
 #include <zend_exceptions.h>
